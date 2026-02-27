@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 tensorflow
-streamlit-webrtc
+streamlit-webrtc==0.47.7
 av
 aiortc
 
