@@ -4,3 +4,5 @@ numpy
 tensorflow
 streamlit-webrtc
 av
+aiortc
+
